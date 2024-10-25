@@ -96,7 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1729838803744</updated>
       <workItem from="1729838805099" duration="1776000" />
-      <workItem from="1729841141810" duration="2041000" />
+      <workItem from="1729841141810" duration="2923000" />
     </task>
     <servers />
   </component>
@@ -104,6 +104,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/linear_regression_office_price$linear_regression_office_price.coverage" NAME="linear_regression_office_price Coverage Results" MODIFIED="1729841432308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/linear_regression_office_price$linear_regression_office_price.coverage" NAME="linear_regression_office_price Coverage Results" MODIFIED="1729844217842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
